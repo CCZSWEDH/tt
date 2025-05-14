@@ -3,17 +3,17 @@
 
 项目简介
 
-简单描述你的项目做什么。
+iPad 8代
 
 安装方法
 
-克隆仓库：git clone https://github.com/你的用户名/你的项目.git
+克隆仓库：git clone https://github.com/CCZSWEDH/tt.git
 
-安装依赖：npm install（如果有）
+安装依赖：npm install
 
 使用方法
 
-详细说明如何使用你的项目。
+niceboy
 
 贡献指南
 
